@@ -1,0 +1,18 @@
+.Ca1 {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 20px;
+}
+.fig1{
+    margin-left: 500px;
+}
+.About{
+    background-color: rgb(230, 227, 227);
+    text-align:left;
+    text-indent: 40px;
+    margin-top:20px;
+    margin-left: 50px;
+    width: 400px;
+    overflow: hidden;
+   
+}

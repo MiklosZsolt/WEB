@@ -1,0 +1,52 @@
+.RegisterPage {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 500px;
+    text-align: center;
+    }
+
+    
+    
+    .RegisterPage h2 {
+    margin-bottom: 20px;
+    }
+    
+    .RegisterPage form {
+    display: inline-block;
+    text-align: left;
+    }
+    
+    .RegisterPage label {
+    display: block;
+    margin-bottom: 10px;
+    }
+    
+    .RegisterPage input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    }
+    
+    .RegisterPage button {
+    background-color: #0077cc;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    }
+    
+    .RegisterPage button:hover {
+    background-color: #005299;
+    }
+    
+    .RegisterPage .user-info {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    text-align: center;
+    }

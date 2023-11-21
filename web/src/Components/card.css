@@ -1,0 +1,9 @@
+.Card {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  
+  .Card.Body {
+    text-align: left;
+  }
+  
